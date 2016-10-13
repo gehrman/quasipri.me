@@ -1,0 +1,13 @@
+# Stack and Hakyll file ignores
+_cache/
+_site/
+.stack-work/
+
+# Filesystem and OS
+.DS_Store
+
+# Vim & Emacs Files
+*.swp
+*.swo
+*~
+\#*\#
